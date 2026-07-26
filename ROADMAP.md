@@ -60,7 +60,7 @@
 - [ ] Add a configuration file
 - [ ] Add logging
 - [ ] Write basic tests
-- [ ] Add sample output files
-- [ ] Complete the README
+- [x] Add sample output files
+- [x] Complete the README
 - [ ] Add screenshots
 - [ ] Publish a GitHub release
