@@ -53,12 +53,17 @@ The project is actively maintained and will be expanded with automated tests, ty
 
 ```text
 ecommerce-product-collector/
+├── assets/
+│   └── terminal-demo.png
+├── examples/
+│   ├── sample_products.json
+│   └── sample_products.csv
+├── output/
 ├── main.py
 ├── README.md
 ├── ROADMAP.md
 ├── requirements.txt
-├── .gitignore
-└── output/
+└── .gitignore
 ```
 
 The `output` directory is created automatically when the application runs.
@@ -117,6 +122,14 @@ Sort options:
 
 Choose a sort option (1-4): 2
 ```
+
+
+## Demo
+
+The following screenshot shows a filtered laptop search and the generated process summary.
+
+![Terminal output demo](assets/terminal-demo.png)
+
 
 ## Example Process Summary
 
