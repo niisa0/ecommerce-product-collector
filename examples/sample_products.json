@@ -1,0 +1,28 @@
+[
+    {
+        "id": 159,
+        "title": "iPad Mini 2021 Starlight",
+        "brand": "Apple",
+        "category": "tablets",
+        "price": 499.99,
+        "discount_percentage": 3.64,
+        "rating": 3.18,
+        "stock": 47,
+        "availability_status": "In Stock",
+        "shipping_information": "Ships in 1-2 business days",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/ipad-mini-2021-starlight/thumbnail.webp"
+    },
+    {
+        "id": 160,
+        "title": "Samsung Galaxy Tab S8 Plus Grey",
+        "brand": "Samsung",
+        "category": "tablets",
+        "price": 599.99,
+        "discount_percentage": 13.31,
+        "rating": 4.68,
+        "stock": 62,
+        "availability_status": "In Stock",
+        "shipping_information": "Ships in 2 weeks",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp"
+    }
+]
