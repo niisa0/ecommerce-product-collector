@@ -62,5 +62,5 @@
 - [ ] Write basic tests
 - [x] Add sample output files
 - [x] Complete the README
-- [ ] Add screenshots
+- [x] Add screenshots
 - [ ] Publish a GitHub release
